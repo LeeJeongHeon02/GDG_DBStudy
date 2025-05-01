@@ -197,7 +197,8 @@ Overview (1)
 
 DBMS는 클라이언트/서버 모델을 사용하며, 데이터베이스 시스템 인스턴스(노드)가 서버 역할을 하고 애플리케이션 인스턴스가 클라이언트 역할을 한다. → 클라이언트/서버 관계는 백엔드 정규 스터디 시간에 들었던 내용…
 
-![image.png](attachment:70e0bcb5-65d0-454d-b8f9-91c04c76dee9:image.png)
+![image](https://github.com/user-attachments/assets/ee654c16-2d6e-48ad-b32c-4e83672abc48)
+
 
 (위 그림처럼 구조가 명확하다면 이해하기 쉽겠지만, 실제로는 여러 요소들이 결합되어서 동작한다.)
 
