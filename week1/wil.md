@@ -178,8 +178,7 @@ WHERE age > 20;
 - 선택과 집중을 요구하는 “트레이드오프”
 - 각 상황에 맞게 개발된 스토리지 엔진들이 존재 → 각자의 상황에 맞는 스토리지 엔진을 고르면 된다.
 
-# Ch 1. Introduction And
-Overview (1)
+# Ch 1. Introduction And Overview (1)
 
 ## 학습목표
 
