@@ -7,6 +7,7 @@ Database Internals에서 B Tree에 대한 내용을 읽어보면서, 확실하�
 
  **M** : 각 노드의 최대 자녀 노드 수
 - 최대 M개의 자녀를 가질 수 있는 B tree를 M차 B tree라고 부른다.
+
 **M - 1** : 각 노드의 최대 key 수
 
 **M / 2 의 올림** : 각 노드의 최소 자녀 노드 수(root, leaf node는 제외)
